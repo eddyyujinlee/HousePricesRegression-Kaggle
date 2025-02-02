@@ -27,5 +27,3 @@ jupyter notebook notebooks/House\ Prices\ -\ Advanced\ Regression\ Techniques.ip
 ---
 🔗 **[View Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)**  
 📬 **Contact:** [eddyyujinlee@gmail.com]
-
-# House Prices Regression - Kaggle
